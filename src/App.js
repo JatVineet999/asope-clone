@@ -6,7 +6,7 @@ import SingleProduct from "./SingleProduct";
 import Products from "./Products";
 import Store from "./Store";
 import Quote from "./Quote";
-import { product_1, product_2, sp1, sp2, sp3 } from "./data";
+import { product_1, product_2, sp1, sp2} from "./data";
 import ModeCommentOutlinedIcon from "@material-ui/icons/ModeCommentOutlined";
 
 function App() {
