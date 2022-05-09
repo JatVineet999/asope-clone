@@ -1,5 +1,5 @@
 import { Button } from "@material-ui/core";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./Hero.css";
 import ArrowForwardIcon from "@material-ui/icons/ArrowForward";
 import DragHandleIcon from "@material-ui/icons/DragHandle";
